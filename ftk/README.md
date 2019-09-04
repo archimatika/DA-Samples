@@ -8,7 +8,7 @@ Limits, that put demand on facade, are based on simple premitives (on early dev 
 
 | Model element         |                                |
 |-----------------------|--------------------------------|
-| Breps                 | Massing model to define facade surface                |
+| Breps                 | Massing model allow to define facade surface              |
 | IfcSpaces             | Rooms that define extra properies for facade panel    |
 | IfcColumns            | Structural elements as limits  |
 | IfcWalls              | Walls as limits                |
