@@ -1,6 +1,6 @@
-# Design Automation [[ua]](READMEUA.md)
+# Design Automation
 
-Set of tools and technics for design automation used at Archimatika
+Set of tools and technics for design automation used at Archimatika.
 
 ## Public available tools
 
