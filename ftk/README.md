@@ -6,9 +6,17 @@ Work in progress prototype. Set of grasshopper definitions that allow to generat
 
 ## Methodology
 
-Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to Archimatika`s design processes. Set of tools was developed to fit Archimatika technology stack. We use open BIM and interoperability principles to deploy integrated algorithmic workflow.
+Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to Archimatika`s design processes. Set of tools was developed to fit Archimatika technology stack. We use openBIM and interoperability principles to deploy integrated algorithmic workflow.
 
-Integrating algorithms at early design stages aiming to automate 
+Common weak in AEC industry is disintegrated old fashioned project life circle. Even using BIM tools and techniques Archimatika still lose data and almost start each design stage from scratch.
+
+![FTK](img/loss.png)
+
+In this experiment, we have been trying to implement an automated workflow between different design stages and design team. We automate the design process by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
+
+![FTK](img/ProjectLifecircle.gif)
+
+#### Design Automation steps:
 
 1. [Limits Definition](###Limits-Definition)
 2. [Object Inheritance Schema](###Object-Inheritance-Schema)
@@ -29,6 +37,12 @@ Limits that put a demand on a facade based on simple primitives (on early dev st
 | IfcFurnishingElement  | Furnishing element (kitchen cabinets, storage, ect) as limits |
 
 ### Object Inheritance Schema
+
+![FTK](img/Inheritance_01.png)
+![FTK](img/Inheritance_02.png)
+![FTK](img/Inheritance_03.png)
+  .
+![FTK](img/Inheritance_04.png)
 
 ### Design Evaluation
 
