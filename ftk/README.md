@@ -28,6 +28,7 @@ In this experiment, we have been trying to implement an automated workflow betwe
 Limits that put a demand on a facade based on simple primitives (on early dev stage) and Architectural Model IfcEntities:
 
 ![FTK](img/20.png)
+
 | Model element         | Element role                   |
 |-----------------------|--------------------------------|
 | Breps                 | Massing models allow to define facade surface   |
