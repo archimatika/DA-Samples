@@ -15,12 +15,16 @@ In this experiment, we have been trying to implement an automated workflow acros
 
 ![FTK](img/ProjectLifecircle.gif)
 
-#### Design Automation steps:
+<!---
+
+#### FTK Toolkit features:
 
 1. [Limits Definition](###Limits-Definition)
 2. [Object Inheritance Schema](###Object-Inheritance-Schema)
 3. [Design Evaluation](###Design-Evaluation)
 4. [Model generation](###Model-generation)
+
+--->
 
 ### Limits Definition
 
