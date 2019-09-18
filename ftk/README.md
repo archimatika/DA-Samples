@@ -54,7 +54,7 @@ Each design option stores in the database as a set of ftkElement parameters. We 
 
 For now, we calculate insolation, illuminance, energy efficiency according to Ukrainian Building codes as well as a set of generic parameters like window-to-wall ratio, elements specification, etc.
 
-![FTK](img/Evaluation.png)
+![FTK](img/evaluation.png)
 
 Based on quantitive and qualitative metrics, we chose design option for generating model into specific BIM software. (in this case Archicad)
 
