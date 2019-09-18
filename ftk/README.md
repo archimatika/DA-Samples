@@ -11,8 +11,7 @@ Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to
 Common weak in AEC industry is disintegrated old fashioned project life circle. Even using BIM tools and techniques Archimatika still lose data and almost start each design stage from scratch.
 
 ![FTK](img/loss.png)
-
-In this experiment, we have been trying to implement an automated workflow between different design stages and design team. We automate the design process by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
+In this experiment, we have been trying to implement an automated workflow between different design stages and design team. We automate project processes by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
 
 ![FTK](img/ProjectLifecircle.gif)
 
