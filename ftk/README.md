@@ -8,7 +8,7 @@ Work in progress prototype. Set of grasshopper definitions that allow to generat
 
 Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to Archimatika`s design process. Set of tools was developed to fit Archimatika technology stack. We use openBIM and interoperability principles to deploy integrated algorithmic workflow.
 
-Common weak in AEC industry is disintegrated old fashioned project life circle. Even using BIM tools and techniques Archimatika still loss data and start each design stage almost from scratch.
+Disintegrated and old fashioned project life circle is сommon weak in AEC industry. Even using BIM tools and techniques Archimatika still loss data starting each design stage almost from scratch.
 
 ![FTK](img/loss.png)
 In an experiment, we have been trying to implement an automated workflow across different design stages and teams. We automate project processes by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
