@@ -79,4 +79,4 @@ Stay tuned for our [public available repository](../README.md) updates.
 - Design Exploration UI.
 - Build Revit interoperability solution, based on [Rhino.Inside](https://github.com/mcneel/rhino.inside/blob/master/Autodesk/Revit/README.md) technology.
 - Deploy prototype to production, using [Rhino.Compure](https://github.com/mcneel/compute.rhino3d) service and [Rhino3dm](https://github.com/mcneel/rhino3dm) libraries.
-- Have fun with [Hypar](https://hypar.io/).
+- Have fun with [Hypar](https://hypar.io/), [BHoM](https://bhom.xyz/) etc.
