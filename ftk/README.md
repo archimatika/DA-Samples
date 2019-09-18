@@ -58,7 +58,7 @@ For now, we calculate insolation, illuminance, energy efficiency according to Uk
 
 Based on quantitive and qualitative metrics, we chose design option for generating model into specific BIM software. (in this case Archicad)
 
-Stay tuned for our [samples repository](../README.md) updates.
+Stay tuned for more examples at our [samples repository](../README.md).
 
 ### Model generation
 
