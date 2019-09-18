@@ -50,6 +50,14 @@ Limits that put a demand on a facade based on simple primitives (on early dev st
 
 ### Design Evaluation
 
+Each design option stores in the database as a set of ftkElement parameters. We can rebuild a model with different level of details depends on type of analysis. We use a set of analysis tools to evaluate design options.
+
+For now, we calculate insolation, illuminance, energy efficiency according to Ukrainian Building codes as well as a set of generic parameters like window-to-wall ratio, elements specification, etc.
+
+Based on quantitive and qualitative metrics, we chose design option for generating model into specific BIM software. (in this case Archicad)
+
+Stay tuned for our [public available repository](../readme.md) updates.
+
 ### Model generation
 
 ## List of the plug-ins we use in the definitions
