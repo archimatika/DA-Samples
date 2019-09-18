@@ -1,17 +1,17 @@
 # Facade Toolkit
 
-Work in progress prototype. Set of grasshopper definitions that allow to generate facade patterns, based on prescripted rules. Interoperability workflow for generating 3D Elements into the BIM model.
+Work in progress prototype. Set of grasshopper definitions that allow to generate facade patterns, based on prescripted rules. Interoperability workflow for model data exchange.
 
-![FTK](img/gif.gif)
+![FTK](img/generate.gif)
 
 ## Methodology
 
-Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to Archimatika`s design processes. Set of tools was developed to fit Archimatika technology stack. We use openBIM and interoperability principles to deploy integrated algorithmic workflow.
+Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to Archimatika`s design process. Set of tools was developed to fit Archimatika technology stack. We use openBIM and interoperability principles to deploy integrated algorithmic workflow.
 
-Common weak in AEC industry is disintegrated old fashioned project life circle. Even using BIM tools and techniques Archimatika still lose data and start each design stage almost from scratch.
+Common weak in AEC industry is disintegrated old fashioned project life circle. Even using BIM tools and techniques Archimatika still loss data and start each design stage almost from scratch.
 
 ![FTK](img/loss.png)
-In this experiment, we have been trying to implement an automated workflow across different design stages and teams. We automate project processes by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
+In an experiment, we have been trying to implement an automated workflow across different design stages and teams. We automate project processes by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
 
 ![FTK](img/ProjectLifecircle.gif)
 
