@@ -62,6 +62,10 @@ Check out more examples at our [samples repository](../README.md).
 
 ### Model generation
 
+We`ve used Archicad-Grasshopper Connector to generate BIM model elements based on conceptual model primitives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slQig_C0YEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## List of the plug-ins we use in the definitions
 
 - [GeometryGymIFC](https://geometrygym.wordpress.com/downloads-windows/)
