@@ -1,6 +1,6 @@
 # Facade Toolkit
 
-Work in progress prototype. Set of grasshopper definitions that allow to generate facade patterns, based on prescripted rules. Interoperability workflow for model data exchange.
+Work in progress prototype. Set of grasshopper definitions that allows to generate facade patterns, based on prescripted rules. Interoperability workflow for model data exchange.
 
 ![FTK](img/generate.gif)
 
@@ -8,10 +8,10 @@ Work in progress prototype. Set of grasshopper definitions that allow to generat
 
 Developed by [Spatial Tech](https://github.com/sptch) methodology was adopted to Archimatika`s design process. Set of tools was developed to fit Archimatika technology stack. We use openBIM and interoperability principles to deploy integrated algorithmic workflow.
 
-Disintegrated and old fashioned project life circle is сommon weak in AEC industry. Even using BIM tools and techniques Archimatika still loss data starting each design stage almost from scratch.
+Disintegrated and old fashioned project life cycle is сommon weak for AEC industry. Even with utilizing BIM tools and techniques Archimatika still loss some data starting each design stage almost from scratch.
 
 ![FTK](img/loss.png)
-In an experiment, we have been trying to implement an automated workflow across different design stages and teams. We automate project processes by integrating algorithms at the early design stage and using feedback mechanisms based on models data exchange.
+In an experiment, we have been trying to implement an automated workflow across different design stages and teams. We automate project processes by integrating algorithms at the early design stage and using feedback mechanisms based on model data exchange.
 
 ![FTK](img/ProjectLifecircle.gif)
 
@@ -35,7 +35,7 @@ Limits that put a demand on a facade based on simple primitives (on early dev st
 | Model element         | Element role                   |
 |-----------------------|--------------------------------|
 | Breps                 | Massing models allow to define facade surface   |
-| IfcSpaces             | Rooms  define extra properties for facade panel   |
+| IfcSpaces             | Rooms  define extra properties for facade panels   |
 | IfcColumns            | Structural elements as limits  |
 | IfcWalls              | Walls as limits                |
 | IfcFurnishingElement  | Furnishing element (kitchen cabinets, storage, ect) as limits |
@@ -50,13 +50,13 @@ Limits that put a demand on a facade based on simple primitives (on early dev st
 
 ### Design Evaluation
 
-Each design option stores in the database as a set of ftkElement parameters. We can rebuild a model with different level of details depends on type of analysis. We use a set of analysis tools to evaluate design options.
+Each design option stores in the database as a set of ftkElement parameters. We can rebuild a model with different level of detail depends on type of analysis. We use a set of analysis tools to evaluate design options.
 
-For now, we calculate insolation, illuminance, energy efficiency according to Ukrainian Building codes as well as a set of generic parameters like window-to-wall ratio, elements specification, etc.
+For now, we calculate insolation, illuminance, energy efficiency according to Ukrainian Building codes as well as a set of generic parameters like window-to-wall ratio, elements specification etc.
 
 ![FTK](img/evaluation.png)
 
-Based on quantitive and qualitative metrics, we chose design option for generating model into specific BIM software. (in this case Archicad)
+Based on quantitive and qualitative metrics, we chose design option for generating model within specific BIM software. (in this case Archicad)
 
 Check out more examples at our [samples repository](../README.md).
 
