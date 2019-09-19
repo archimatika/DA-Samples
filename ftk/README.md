@@ -64,9 +64,11 @@ Check out more examples at our [samples repository](../README.md).
 
 We`ve used Archicad-Grasshopper Connector to generate BIM model elements based on conceptual model primitives.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=slQig_C0YEo
-" target="_blank"><img src="http://img.youtube.com/vi/slQig_C0YEo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" border="10" /></a>
+![FTK](img/ac-gh_01.gif)
+![FTK](img/ac-gh_02.gif)
+![FTK](img/ac-gh_03.gif)
+
+Chech out [Archicad-Grasshopper Connect](Archicad-Grasshopper_connect) folder for model generation script.
 
 ## List of the plug-ins we use in the definitions
 
